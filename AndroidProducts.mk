@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2021 The LineageOS Project
+# Copyright (C) 2021 The infinityOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_d1x.mk
+    $(LOCAL_DIR)/infinity_d1x.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_d1x-eng \
-    lineage_d1x-user \
-    lineage_d1x-userdebug
+    infinity_d1x-eng \
+    infinity_d1x-user \
+    infinity_d1x-userdebug
