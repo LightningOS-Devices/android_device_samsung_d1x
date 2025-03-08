@@ -46,7 +46,6 @@ TARGET_BUILD_VIMUSIC := true
 TARGET_SUPPORTS_QUICK_TAP := true
 WITH_GAPPS := true
 TARGET_HAS_UDFPS := true
-TARGET_BUILD_GOOGLE_TELEPHONY := true
 
 ## Device identifier, this must come after all inclusions
 PRODUCT_NAME := infinity_d1x
